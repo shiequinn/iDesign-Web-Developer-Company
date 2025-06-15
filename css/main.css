@@ -613,7 +613,7 @@ Video {
 
     /* Adjust the text size for smaller screens */
     .intro-text h1 {
-        font-size: 18px;
+        font-size: 20px;
         /* Smaller font size for heading */
     }
 
