@@ -376,7 +376,6 @@ hr {
         /* smaller font size for very small screens */
         padding: 10px;
         /* smaller padding for touch targets */
-        background-color: none;
     }
     
     .nav-item a:hover {
